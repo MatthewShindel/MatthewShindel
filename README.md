@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Matthew Shindel Banner](/Images/MainBanner.png)
+
 I'm Matthew Shindel, a Junior Front-end software engineer. I specialize in Javascript, HTML, CSS, Python, and Typescript. I've made front-end applications, primarily using React as the framework, though I have made applications in the past only using Javascript. Right now, I'm looking for jobs in NYC, and I am working on Platform, a social media consolidator. 
 
 You can reach me at my email:
