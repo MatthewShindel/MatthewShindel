@@ -7,6 +7,7 @@ I'm Matthew Shindel, a Junior Front-end software engineer. I specialize in Javas
 You can reach me at my email:
 [Matthew@shindel.com](matthew@shindel.com)
 
+![Cypress Test Video](Images/Cypresstestgif1.gif)
 
 <!--
 **MatthewShindel/MatthewShindel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
