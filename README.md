@@ -7,7 +7,13 @@ I'm Matthew Shindel, a Junior Front-end software engineer. I specialize in Javas
 You can reach me at my email:
 [Matthew@shindel.com](matthew@shindel.com)
 
-![Cypress Test Video](Images/Cypresstestgif1.gif)
+Currently, I'm a Front-end Developer for Datafactz, workign on making Front-end testing suites for our Decision Intelligence Application. Below, I've included a video demo of my work, going over the testing suites I created.
+
+[Link to Demo video](https://youtu.be/m7a6Z3IoIwE)
+
+![Cypress Test Gif](Images/Cypresstestgif1.gif)
+
+
 ![Codewars](https://github.r2v.ch/codewars?user=MatthewShindel)
 
 
