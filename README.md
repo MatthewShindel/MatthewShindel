@@ -2,14 +2,16 @@
 
 ![Matthew Shindel Banner](/Images/MainBanner.png)
 
-I'm Matthew Shindel, a Junior Front-end software engineer. I specialize in Javascript, HTML, CSS, Python, and Typescript. I've made front-end applications, primarily using React as the framework, though I have made applications in the past only using Javascript. Right now, I'm looking for jobs in NYC, and I am working on Platform, a social media consolidator. 
+I'm Matthew Shindel, a Junior Front-end software engineer. I specialize in Javascript, HTML, CSS, Python, and Typescript. I've made front-end applications, primarily using React as the framework, though I have made applications in the past only using Javascript. 
 
 You can reach me at my email:
 [Matthew@shindel.com](matthew@shindel.com)
 
-Currently, I'm a Front-end Developer for Datafactz, workign on making Front-end testing suites for our Decision Intelligence Application. Below, I've included a video demo of my work, going over the testing suites I created.
+Currently, I'm a Front-end Developer for Datafactz, working on making Front-end testing suites for our Decision Intelligence Application. Below, I've included a video demo of my work, going over the testing suites I created.
 
-[Link to Demo video](https://youtu.be/m7a6Z3IoIwE)
+https://github.com/user-attachments/assets/b35a7e50-36a0-49a3-8768-e46055322987
+
+
 
 ![Cypress Test Gif](Images/Cypresstestgif1.gif)
 
