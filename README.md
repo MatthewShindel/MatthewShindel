@@ -9,11 +9,12 @@ You can reach me at my email:
 
 Currently, I'm a Front-end Developer for Datafactz, working on making Front-end testing suites for our Decision Intelligence Application. Below, I've included a video demo of my work, going over the testing suites I created.
 
-https://github.com/user-attachments/assets/b35a7e50-36a0-49a3-8768-e46055322987
 
 
 
-![Cypress Test Gif](Images/Cypresstestgif1.gif)
+https://github.com/user-attachments/assets/b71b9638-fd07-4ec4-870c-077c8d7ee3ca
+
+
 
 
 ![Codewars](https://github.r2v.ch/codewars?user=MatthewShindel)
