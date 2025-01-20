@@ -5,7 +5,11 @@ I'm a Front-end Developer for Datafactz. I develop end-to-end test suites for ou
 
 
 
-https://github.com/user-attachments/assets/b71b9638-fd07-4ec4-870c-077c8d7ee3ca
+
+
+https://github.com/user-attachments/assets/46e4973f-5a91-4d9d-bfb0-8d40e927b85a
+
+
 
 
 
