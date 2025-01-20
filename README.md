@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-![Matthew Shindel Banner](/Images/MainBanner.png)
-
-I'm Matthew Shindel, a Junior Front-end software engineer. I specialize in Javascript, HTML, CSS, Python, and Typescript. I've made front-end applications, primarily using React as the framework, though I have made applications in the past only using Javascript. 
-
-You can reach me at my email:
-[Matthew@shindel.com](matthew@shindel.com)
-
-Currently, I'm a Front-end Developer for Datafactz, working on making Front-end testing suites for our Decision Intelligence Application. Below, I've included a video demo of my work, going over the testing suites I created.
+I'm a Front-end Developer for Datafactz. I develop end-to-end test suites for our LLM Decision Intelligence Application. Below is a demo of my work.
 
 
 
